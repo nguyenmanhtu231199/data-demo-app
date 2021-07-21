@@ -1,0 +1,151 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "name": "efferalgan 500",
+            "price": "37000" ,
+            "description": "Thuốc giảm đau- hạ sốt ",
+            "imageUrl": "https://image.pharmacity.vn/live/uploads/2019/04/P00126_1_l.jpg"
+          },
+          {
+            "id": 2,
+            "name": "BUONA",
+            "price": "267000" ,
+            "description": "Bột nhuận tràng Buona PEGinpol cho trẻ em ",
+            "imageUrl": "https://static.omipharma.vn/storage/100/GeYXLE0ctgCX4h4UQOjgLhc3k2GTMh2LVF5ucYCY.jpeg"
+          },
+          {
+            "id": 3,
+            "name": "Siro Prospan",
+            "price": 73000 ,
+            "description": "Thuốc ho Siro Prospan 100ml ",
+            "imageUrl": "https://bizweb.dktcdn.net/100/348/768/products/thuoc-ho-prospan.jpg?v=1558094333647"
+          },
+          {
+            "id": 4,
+            "name": "Dầu cá",
+            "price": 22000 ,
+            "description": "Viên nang uống dầu cá Blackmores Oudourless Fish Oil 1000",
+            "imageUrl": "https://heluva.vn/wp-content/uploads/2020/03/blackmores-odourless-fish-oil-1.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Quicktana",
+            "price": 70000,
+            "description": "Dụng cụ phát hiện thai sớm Quicktana 5mm ",
+            "imageUrl": "https://cf.shopee.vn/file/fb7bcc9be88b06c7802e1d6ce1bf27ab"
+          },
+          {
+            "id": 6,
+            "name": "Durex Kingtex",
+            "price": 120000 ,
+            "description": "Bao cao su Durex Kingtex 12 CÁI ",
+            "imageUrl": "https://www.watsons.vn/medias/Durex-Kingtex-Pack-12S-205958.jpg?context=bWFzdGVyfGZyb250L3pvb218NTIzMDZ8aW1hZ2UvanBlZ3xmcm9udC96b29tL2hhZi9oNWUvOTIxMzc4NTg5OTAzOC5qcGd8ZDdhN2IyMzVjODk3OTI3OTViZTUzY2NiYWY4MjFiY2JiNjM4YThmNjAxYmQzYTk0NDBiYzc5NmRmNjc4MDExZQ"
+          },
+          {
+            "id": 7,
+            "name": "BCS Masculan ",
+            "price": 23000 ,
+            "description": "Bao cao su Masculan Fruity Edition 3pcs ",
+            "imageUrl": "https://khaisanfood.vn/wp-content/uploads/2020/06/fruiteditionbcs.png"
+          },
+          {
+            "id": 8,
+            "name": "Postinor",
+            "price": 38000,
+            "description": "Thuốc tránh thai khẩn cấp Postinor 1 ",
+            "imageUrl": "https://cdn.thegioididong.com/Products/Images/5792/129102/postinor-1v-2-700x467.jpg"
+          },
+          {
+            "id": 9,
+            "name": "Rigevidon",
+            "price": 50000 ,
+            "description": "Thuốc tránh thai hàng ngày Rigevidon ",
+            "imageUrl": "https://lh5.googleusercontent.com/x6C1ZkVgxLI-njlbW2cGhGJ53ACd5iWjB6KgfKjNVrFUGaj3oBoDK4wxKnRvLbpdGMYx0Wjuak3nCCobNdHRN7PiJNcyExPFc4vAmZgrH2VK_qMIoWNNy6_ICkOL6czDV5x4ZNc2"
+          },
+          {
+            "id": 10,
+            "name": "JELLY",
+            "price": 111000 ,
+            "description": "Gel bôi trơn KY Jelly ",
+            "imageUrl": "https://nhathuoctruongtho.com/wp-content/uploads/2021/02/gel-boi-tron-ky-jelly-thai-lan-82g-1.jpg"
+          },
+          {
+            "id": 11,
+            "name": "Eyelight Ganat",
+            "price": 70000 ,
+            "description": "Viên dầu gấc bổ mắt Eyelight Ganat ",
+            "imageUrl": "https://cdn.famitaa.com/uploads/noidung/tpbvsk-bo-mat-tu-qua-gac-dhg-eyelight-ganat-hop-30-vien_00931.jpg"
+          },
+          {
+            "id": 12,
+            "name": "Oresol Cam",
+            "price": 55000 ,
+            "description": "Dung dịch bù nước và điện giải Oresol Cam Phúc Vinh ",
+            "imageUrl": "https://nhathuoclongchau.com/images/product/2020/12/00029098-oresol-cam-phuc-vinh-40-goi-x-42g-9756-5fe1_large.JPG"
+          },
+          {
+            "id": 13,
+            "name": "Dạ Hương",
+            "price": 30000 ,
+            "description": "Dung dịch phụ nữ Dạ Hương Lavender 100ml ",
+            "imageUrl": "https://salt.tikicdn.com/cache/w444/ts/product/3b/48/f8/07fd9f70f339d05600dc596ec3499fdb.jpg"
+          },
+          {
+            "id": 14,
+            "name": "BVS Natural Lady Sanitary Pads",
+            "price": 65000 ,
+            "description": "Băng vệ sinh thảo dược siêu mỏng Natural Lady Sanitary Pads 10 miếng ",
+            "imageUrl": "https://vn-test-11.slatic.net/p/e2a61b1b394eb58357488a3feef52dcd.png"
+          },
+          {
+            "id": 15,
+            "name": "KEM NGHỆ",
+            "price": 20000,
+            "description": "Kem nghệ dưỡng da trị thâm Thái Dương ",
+            "imageUrl": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00010455-thai-duong-kem-nghe-td-20g-7536-5c87_large.png"
+          },
+          {
+            "id": 16,
+            "name": "DƯỠNG MÔI",
+            "price": 63000 ,
+            "description": "Sáp Dưỡng Môi Vaseline Therapy Rosy Lip ",
+            "imageUrl": "https://salt.tikicdn.com/ts/product/f0/a1/fe/9525e9bce7b45fb1823a4f1990b2ba71.jpg"
+          },
+          {
+            "id": 17,
+            "name": "Rocket",
+            "price": 105000 ,
+            "description": "Viên uống Rocket 1h Thái Dương dạng gói ",
+            "imageUrl": "https://product.hstatic.net/1000264998/product/rocket-30g_large.png"
+          },
+          {
+            "id": 18,
+            "name": "HỒI XUÂN COCO",
+            "price": 260000 ,
+            "description": "Viên uống Hồi Xuân COCO ",
+            "imageUrl": "https://www.malls.vn/wp-content/uploads/2019/02/thuc-pham-suc-khoe-hoi-xuan-coco2-1.png"
+          },
+          {
+            "id": 19,
+            "name": "KHẨU TRANG Y TẾ",
+            "price": 45000 ,
+            "description": "Khẩu trang y tế Famapro than hoạt tính ",
+            "imageUrl": "https://ykhoathammyquangminh.com/image/catalog/IMG_20200918_095003.jpg"
+          },
+          {
+            "id": 20,
+            "name": "NƯỚC SÁT KHUẨN",
+            "price": 115000 ,
+            "description": " Dung dịch rửa tay sát khuẩn nhanh Alfasept Handrub 500ml - Dạng nước ",
+            "imageUrl": "https://salt.tikicdn.com/media/catalog/producttmp/dc/74/07/1f06d0c758f6e3518d39f7be396dd21e.png"
+          },
+          {
+            "id": 21,
+            "name": "THUỐC NGỦ",
+            "price": 350000 ,
+            "description": " Thuốc ngủ Seduxen là sản phẩm có tác dụng an thần mạnh-vỉ 10 viên ",
+            "imageUrl": "https://www.dongyvietnam.org/wp-content/uploads/2020/11/thuoc-ngu-seduxen.jpg"
+          }
+        ]
+}
